@@ -16,8 +16,8 @@ public class App {
         Product item3 = new Product(3, "Twix", 70);
         Product item4 = new Drinks(5, "Sprite", 50, 0.5f);
         Product item5 = new Drinks(7, "Mineral", 30, 0.5f);
-        Product item6 = new HotDrinks(1, "Coffee", 45, 0.5f, 93);
-        Product item7 = new HotDrinks(1, "Tea", 35, 0.5f, 80);
+        Product item6 = new HotDrinks(8, "Coffee", 45, 0.5f, 93);
+        Product item7 = new HotDrinks(9, "Tea", 35, 0.5f, 80);
 
         List<Product> products = new ArrayList<>();
         products.add(item1);
